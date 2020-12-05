@@ -2,13 +2,11 @@
 //###########################           SSTech       ###################
 //###########################   Programming Courses  ###################
 //######################################################################
-console.log("mina atef");
-let minaatef: number;
-let m: number;
-let m2: number;
-minaatef = 9710;
-m = 520;
-m2 = minaatef - m;
+let m1, m2, m3, m4, m5 : number;
 
-console.log(m2);
-
+m1=120;
+m2=120;
+m3=10;
+m4=10;
+m5= m1 + m2;
+console.log (m5);
