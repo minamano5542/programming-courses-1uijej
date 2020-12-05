@@ -3,4 +3,9 @@
 //###########################   Programming Courses  ###################
 //######################################################################
 console.log("mina atef");
-let minaatef variable: number;
+let minaatef: number;
+let m: number;
+minaatef = 123;
+m = 527;
+
+console.log(minaatef + m);
