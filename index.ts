@@ -10,5 +10,5 @@ minaatef = 120;
 m = 120;
 m2 = minaatef + m;
 
-console.log(minaatef + m2);
+console.log(minaatef * m2);
 
