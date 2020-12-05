@@ -6,9 +6,9 @@ console.log("mina atef");
 let minaatef: number;
 let m: number;
 let m2: number;
-minaatef = 120;
-m = 120;
-m2 = minaatef + m;
+minaatef = 9710;
+m = 520;
+m2 = minaatef - m;
 
-console.log(minaatef * m2);
+console.log(m2);
 
