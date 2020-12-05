@@ -5,7 +5,7 @@
 console.log("mina atef");
 let minaatef: number;
 let m: number;
-minaatef = 123;
-m = 527;
+minaatef = 120;
+m = 120;
 
 console.log(minaatef + m);
